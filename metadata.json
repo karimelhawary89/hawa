@@ -1,0 +1,6 @@
+{
+  "name": "نظام براءة القانوني — Baraa Legal ERP",
+  "description": "نظام إدارة مكاتب المحاماة الذكي المدعوم بالذكاء الاصطناعي — Arabic-first Neumorphic Legal ERP for law firms in Egypt and the GCC.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
